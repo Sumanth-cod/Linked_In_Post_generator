@@ -3,4 +3,4 @@ pandas
 langchain-core
 langchain-groq
 openai
-dotenv
+python-dotenv
