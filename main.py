@@ -9,7 +9,9 @@ def main():
     st.set_page_config(page_title="LinkedIn Post Generator", page_icon="💼", layout="centered")
 
     st.image("https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg", width=80)
-    st.markdown("<h1 style='color: #0066cc;'>AI-Powered LinkedIn Post Generator</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='color: #0066cc;'>AI-Powered LinkedIn Post Generator and LLM</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='color: #0066cc;'>Build by Sumanth Komirisetty</h1>", unsafe_allow_html=True)
+
     st.markdown("<p style='color: grey;'>Craft professional posts in seconds using Generative AI</p>", unsafe_allow_html=True)
 
     st.markdown("""
